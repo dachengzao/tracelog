@@ -9,7 +9,7 @@ package main
 import (
     "fmt"
 
-    "github.com/goinggo/tracelog"
+    "github.com/xiaoyang2022/tracelog"
 )
 
 func main() {
